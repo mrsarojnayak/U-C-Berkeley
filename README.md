@@ -75,6 +75,10 @@ Match timing to behavior: Send coffee coupons in the morning, bar coupons in the
 Extend expiration: 1-day coupons dramatically outperform 2-hour coupons.
 Consider social context: Target bar/restaurant coupons when drivers have friends (not kids) as passengers.
 Avoid targeting urgent trips: Focus on leisure driving or "no urgent place" destinations.
+
+Link to Python Code :
+======================
+
    
 
 
