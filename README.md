@@ -80,6 +80,10 @@ Link to Python Code :
 ======================
 https://github.com/mrsarojnayak/U-C-Berkeley/blob/main/Coupon_Acceptance_Solution_Saroj_Nayak.ipynb
 
+Link to output
+=================
+https://github.com/mrsarojnayak/U-C-Berkeley/blob/main/Coupon_Acceptance_Solution_Saroj_Nayak.html
+
    
 
 
