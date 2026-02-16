@@ -78,12 +78,12 @@ Avoid targeting urgent trips: Focus on leisure driving or "no urgent place" dest
 
 Link to Python Code :
 ======================
-https://github.com/mrsarojnayak/U-C-Berkeley/blob/main/Coupon_Acceptance_Solution_Saroj_Nayak.ipynb
+[https://github.com/mrsarojnayak/U-C-Berkeley/blob/main/Coupon_Acceptance_Solution_Saroj_Nayak.ipynb](https://github.com/mrsarojnayak/U-C-Berkeley/blob/main/Will%20the%20Customer%20Accept%20the%20Coupon/Coupon_Acceptance_Solution_Saroj_Nayak.ipynb)
 
 Link to output
 =================
-https://github.com/mrsarojnayak/U-C-Berkeley/blob/main/Coupon_Acceptance_Solution_Saroj_Nayak.html
-To View the output : Download this file 
+[https://github.com/mrsarojnayak/U-C-Berkeley/blob/main/Coupon_Acceptance_Solution_Saroj_Nayak.html
+To View the output : Download this file ](https://github.com/mrsarojnayak/U-C-Berkeley/blob/main/Will%20the%20Customer%20Accept%20the%20Coupon/Coupon_Acceptance_Solution_Saroj_Nayak.html)
 
    
 
